@@ -13,5 +13,5 @@ Aside from the analysis, our manager requested a presentation and a report that 
 - A new dashboard that includes visualizations of the analysis
 - Observations based on the analysis
 
-### Dataset
+### Data Set
 https://www.kaggle.com/datasets/mesumraza/real-world-fake-dataset-for-practice
